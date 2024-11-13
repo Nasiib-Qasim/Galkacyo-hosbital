@@ -397,7 +397,7 @@ header{
     border-bottom: 2px dashed #0074ff;
 }
 .rate-section{
-    background-image: linear-gradient(rgba(26, 118, 209,0.6),rgba(26, 118, 209,0.6)),url("home-banner.jpg.webp");
+    background-image: linear-gradient(rgba(26, 118, 209,0.6),rgba(26, 118, 209,0.6)),url("home-banner.jpg");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
